@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chintu0001
+- 👋 Hi, I’m Sudarsan
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning DBMS, Python and Java
 - 💞️ I’m looking to collaborate on projects related to DBMS.
